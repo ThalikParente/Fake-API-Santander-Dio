@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4,
+    "name": "João da Silva",
+    "account": {
+      "number": "00000000-0",
+      "agency": "0001",
+      "balance": 1320.64,
+      "limit": 1000.0
+    },
+    "card": {
+      "number": "xxxx xxxx xxxx 0000",
+      "limit": 1000.0
+    },
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João, pequenos passos geram grandes resultados. Comece a investir!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João, seu futuro começa hoje! Invista seu dinheiro e veja-o crescer."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Paulo da Silva",
+    "account": {
+      "number": "00000000-1",
+      "agency": "0001",
+      "balance": 132320.64,
+      "limit": 1000000.0
+    },
+    "card": {
+      "number": "xxxx xxxx xxxx 1111",
+      "limit": 1000000.0
+    },
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo, faça seu capital render! Invista e construa o futuro que você deseja."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo, seu futuro merece mais! Otimize seu capital com investimentos inteligentes. Conte conosco."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Carlos da Silva",
+    "account": {
+      "number": "00000000-3",
+      "agency": "0001",
+      "balance": 320.64,
+      "limit": 0.0
+    },
+    "card": {
+      "number": "xxxx xxxx xxxx 2222",
+      "limit": 10.0
+    },
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos, invista no seu futuro. Potencialize suas conquistas. Comece agora!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos, faça seu dinheiro render e construa seu futuro. Invista com a gente!"
+      }
+    ]
+  }
+]
