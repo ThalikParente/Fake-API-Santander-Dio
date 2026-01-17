@@ -14,19 +14,8 @@
     },
     "news": [
       {
-        "description": "Thalik Parente, investir é o segredo para crescer. Planeje seu futuro conosco!"
-      },
-      {
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "Thalik Parente, investir é o segredo do sucesso!"
-      },
-      {
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "Thalik Parente, investir hoje é garantir o amanhã!"
-      },
-      {
         "icon": "https://cdn-icons-png.flaticon.com/512/2618/2618031.png",
-        "description": "Thalik Parente, foco total no treino de hoje. A consistência leva à vitória!"
+        "description": "Thalik Parente, excelente ritmo nos treinos. Continue focado na evolução!"
       }
     ]
   },
@@ -42,11 +31,17 @@
     "card": {
       "number": "xxxx xxxx xxxx 1819",
       "limit": 1000.0
-    }
+    },
+    "news": [
+      {
+        "icon": "https://cdn-icons-png.flaticon.com/512/2618/2618031.png",
+        "description": "Teste da silva, excelente ritmo nos treinos. Continue focado na evolução!"
+      }
+    ]
   },
   {
     "id": 3,
-    "name": "Luana Beatriz Renovato ",
+    "name": "Luana Beatriz Renovato",
     "account": {
       "number": "000000114",
       "agency": "18125",
@@ -56,6 +51,12 @@
     "card": {
       "number": "xxxx xxxx xxxx 2817",
       "limit": 1000.0
-    }
+    },
+    "news": [
+      {
+        "icon": "https://cdn-icons-png.flaticon.com/512/2618/2618031.png",
+        "description": "Luana Beatriz Renovato, mantenha a intensidade na preparação física. Vamos pra cima!"
+      }
+    ]
   }
 ]
