@@ -1,74 +1,61 @@
 [
   {
-    "id": 4,
-    "name": "João da Silva",
+    "id": 1,
+    "name": "Thalik Parente",
     "account": {
-      "number": "00000000-0",
-      "agency": "0001",
-      "balance": 1320.64,
+      "number": "000000111",
+      "agency": "14521",
+      "balance": 1210.54,
       "limit": 1000.0
     },
     "card": {
-      "number": "xxxx xxxx xxxx 0000",
+      "number": "xxxx xxxx xxxx 1214",
       "limit": 1000.0
     },
     "news": [
       {
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "João, pequenos passos geram grandes resultados. Comece a investir!"
+        "description": "Thalik Parente, investir é o segredo para crescer. Planeje seu futuro conosco!"
       },
       {
         "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "João, seu futuro começa hoje! Invista seu dinheiro e veja-o crescer."
+        "description": "Thalik Parente, investir é o segredo do sucesso!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Thalik Parente, investir hoje é garantir o amanhã!"
+      },
+      {
+        "icon": "https://cdn-icons-png.flaticon.com/512/2618/2618031.png",
+        "description": "Thalik Parente, foco total no treino de hoje. A consistência leva à vitória!"
       }
     ]
   },
   {
-    "id": 5,
-    "name": "Paulo da Silva",
+    "id": 2,
+    "name": "Teste da silva",
     "account": {
-      "number": "00000000-1",
-      "agency": "0001",
-      "balance": 132320.64,
-      "limit": 1000000.0
+      "number": "000000112",
+      "agency": "14521",
+      "balance": 1210.54,
+      "limit": 1000.0
     },
     "card": {
-      "number": "xxxx xxxx xxxx 1111",
-      "limit": 1000000.0
-    },
-    "news": [
-      {
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "Paulo, faça seu capital render! Invista e construa o futuro que você deseja."
-      },
-      {
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "Paulo, seu futuro merece mais! Otimize seu capital com investimentos inteligentes. Conte conosco."
-      }
-    ]
+      "number": "xxxx xxxx xxxx 1819",
+      "limit": 1000.0
+    }
   },
   {
-    "id": 6,
-    "name": "Carlos da Silva",
+    "id": 3,
+    "name": "Luana Beatriz Renovato ",
     "account": {
-      "number": "00000000-3",
-      "agency": "0001",
-      "balance": 320.64,
-      "limit": 0.0
+      "number": "000000114",
+      "agency": "18125",
+      "balance": 1816.51,
+      "limit": 1000.0
     },
     "card": {
-      "number": "xxxx xxxx xxxx 2222",
-      "limit": 10.0
-    },
-    "news": [
-      {
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "Carlos, invista no seu futuro. Potencialize suas conquistas. Comece agora!"
-      },
-      {
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-        "description": "Carlos, faça seu dinheiro render e construa seu futuro. Invista com a gente!"
-      }
-    ]
+      "number": "xxxx xxxx xxxx 2817",
+      "limit": 1000.0
+    }
   }
 ]
