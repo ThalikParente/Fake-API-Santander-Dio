@@ -20,7 +20,7 @@ graph LR
     D -->|Instrução Técnica| B
     B -->|2. Load PUT| C
 ```
-
+---
 ### 🔍 Deep Dive no Código
 
 #### 1. Extract (Extração)
